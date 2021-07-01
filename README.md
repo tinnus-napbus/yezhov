@@ -1,2 +1,8 @@
 # yezhov
-List inactive members of Urbit group
+
+List members of Urbit group who have been inactive for `@dr`
+
+```
+> +yezhov [~zod %test] ~m1
+{~zod}
+```
